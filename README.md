@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Creating a Chrome extension using react
+
+Following this [guide](https://blog.logrocket.com/creating-chrome-extension-react-typescript/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
